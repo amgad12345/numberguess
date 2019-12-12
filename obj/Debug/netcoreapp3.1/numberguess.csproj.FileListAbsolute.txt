@@ -1,0 +1,11 @@
+C:\Users\HP\numberguess\bin\Debug\netcoreapp3.1\numberguess.exe
+C:\Users\HP\numberguess\bin\Debug\netcoreapp3.1\numberguess.deps.json
+C:\Users\HP\numberguess\bin\Debug\netcoreapp3.1\numberguess.runtimeconfig.json
+C:\Users\HP\numberguess\bin\Debug\netcoreapp3.1\numberguess.runtimeconfig.dev.json
+C:\Users\HP\numberguess\bin\Debug\netcoreapp3.1\numberguess.dll
+C:\Users\HP\numberguess\bin\Debug\netcoreapp3.1\numberguess.pdb
+C:\Users\HP\numberguess\obj\Debug\netcoreapp3.1\numberguess.csprojAssemblyReference.cache
+C:\Users\HP\numberguess\obj\Debug\netcoreapp3.1\numberguess.AssemblyInfoInputs.cache
+C:\Users\HP\numberguess\obj\Debug\netcoreapp3.1\numberguess.AssemblyInfo.cs
+C:\Users\HP\numberguess\obj\Debug\netcoreapp3.1\numberguess.dll
+C:\Users\HP\numberguess\obj\Debug\netcoreapp3.1\numberguess.pdb
